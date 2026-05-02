@@ -1,0 +1,5 @@
+markdown的编辑器众多。包括但不限于vscode与MarkText
+此处使用vscode编辑。
+markdown文件后缀为.md
+
+另可用markdown编写数学公式和图表，但这篇教程将暂不涉及。
